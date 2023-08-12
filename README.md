@@ -12,7 +12,7 @@ Network for those earning a NW Masters of Applied Data Science
 - GitHub ◆ LinkedIn ◆ HB
 - GitHub ◆ LinkedIn ◆ CB
 - GitHub ◆ LinkedIn ◆ WB
-- GitHub ◆ LinkedIn ◆ AC
+- [GitHub](https://github.com/accoffin12) ◆ [LinkedIn](https://www.linkedin.com/in/alexandra-coffin-a509006a/) ◆ Alexandra Coffin
 - GitHub ◆ LinkedIn ◆ JC
 - GitHub ◆ LinkedIn ◆ PG
 - [GitHub](https://github.com/bethharvey) ◆ [LinkedIn](https://www.linkedin.com/in/beth-harvey-033991240/) ◆ Beth Harvey
